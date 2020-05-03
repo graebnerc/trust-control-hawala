@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.DS_Store
+*~
+notebooks/.ipynb_checkpoints
+notebooks/.ipynb_checkpoints/*
+.ipynb_checkpoints
+.gitignore~
+garbage/*
+output/*
+!output/figures
+paper
