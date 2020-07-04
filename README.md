@@ -3,7 +3,7 @@
 
 This repository contains the source code for the model used in the abovementioned paper.
 The paper is published in the journal *Computational Economics* and is available 
-[here](https://claudius-graebner.com/files/papers/AM-Trust-Social-Control-Hawala-CE2020.pdf) (open access).
+[here](https://doi.org/10.1007/s10614-020-09994-0) (open access, [main paper](https://link.springer.com/content/pdf/10.1007/s10614-020-09994-0.pdf) and [supplementary material](https://static-content.springer.com/esm/art%3A10.1007%2Fs10614-020-09994-0/MediaObjects/10614_2020_9994_MOESM1_ESM.pdf)).
 
 ## Folder structure of the repository
 
